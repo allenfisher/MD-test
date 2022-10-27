@@ -11,9 +11,7 @@ Quick Test of GH Markdown
     "two-places":{
       "type":"GeometryCollection",
       "geometries":[
-        {"type":"Point","coordinates":[33.745, -116.285],"properties":{"name":"Origine_Point"}},
-        {"type":"Point","coordinates":[0,-1],"properties":{"name":"Under_Point"}}
-      ]
+        {"type":"Point","coordinates":[33.744444, -116.285278],"properties":{"name":"BermudaDunes"}}      ]
     }
   },
   "arcs": [
