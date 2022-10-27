@@ -11,7 +11,7 @@ Quick Test of GH Markdown
         "ID": 0
       },
       "geometry": {
-        "type": "Point,
+        "type": "Point",
         "coordinates": [33.745, -116.285]
       }
     }
