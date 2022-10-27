@@ -11,16 +11,8 @@ Quick Test of GH Markdown
         "ID": 0
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
+        "type": "Point,
+        "coordinates": [33.745, -116.285]
       }
     }
   ]
