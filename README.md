@@ -1,16 +1,28 @@
 # MD-test
 Quick Test of GH Markdown
-```topojson
+```geojson
 {
-    "type": "Topology",
-    "objects": {
-        "users": {
-            "type": "MultiPoint",
-            "coordinates": [[-121.3806, 38.0213], 
-                            [-69.726226, 44.275051]
-                           ]
-                 }
-         },
-    "arcs" : []
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
 }
 ```
