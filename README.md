@@ -2,32 +2,25 @@
 Quick Test of GH Markdown
 ```topojson
 {
-  "type": "Topology",
-  "objects": {
-    "example": {
-      "type": "GeometryCollection",
-      "geometries": [
-        {
-          "type": "Point",
-          "properties": {
-            "prop0": "value0"
-          },
-          "coordinates": [102, 0.5]
-        },
-        {
-          "type": "LineString",
-          "properties": {
-            "prop0": "value0",
-            "prop1": 0
-          },
-          "arcs": [0]
-        }
-      ]
-    }
-  },
-  "arcs": [
-    [[102, 0], [103, 1], [104, 0], [105, 1]],
-    [[100, 0], [101, 0], [101, 1], [100, 1], [100, 0]]
-  ]
+    "type": "Topology",
+    "transform": {
+        "scale": [
+            0.032229964456445645,
+            0.006392461796179619
+        ],
+        "translate": [
+            -176.6460306,
+            7.367222
+        ]
+    },
+    "objects": {
+        "users": {
+            "type": "MultiPoint",
+            "coordinates": [[-121.3806, 38.0213], 
+                            [-69.726226, 44.275051],
+                           ]
+                 }
+         },
+    "arcs" : []
 }
 ```
