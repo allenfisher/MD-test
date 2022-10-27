@@ -8,6 +8,13 @@ Quick Test of GH Markdown
     "translate": [0,0]
   },
   "objects":{ 
+    "two-squares":{
+      "type": "GeometryCollection",
+      "geometries":[
+        {"type": "Polygon", "arcs":[[0,1]],"properties": {"name": "Left_Polygon" }},
+        {"type": "Polygon", "arcs":[[2,-1]],"properties": {"name": "Right_Polygon" }}
+      ]
+    },
     "one-line": {
       "type":"GeometryCollection",
       "geometries":[
