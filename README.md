@@ -13,7 +13,7 @@ Quick Test of GH Markdown
             "prop0": "value0"
           },
           "coordinates": [102, 0.5]
-        },
+        }
       ]
     }
   },
