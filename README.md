@@ -14,24 +14,6 @@ Quick Test of GH Markdown
           },
           "coordinates": [102, 0.5]
         },
-        {
-          "type": "LineString",
-          "properties": {
-            "prop0": "value0",
-            "prop1": 0
-          },
-          "arcs": [0]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "prop0": "value0",
-            "prop1": {
-              "this": "that"
-            }
-          },
-          "arcs": [[-2]]
-        }
       ]
     }
   },
