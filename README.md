@@ -8,23 +8,10 @@ Quick Test of GH Markdown
     "translate": [0,0]
   },
   "objects":{ 
-    "two-squares":{
-      "type": "GeometryCollection",
-      "geometries":[
-        {"type": "Polygon", "arcs":[[0,1]],"properties": {"name": "Left_Polygon" }},
-        {"type": "Polygon", "arcs":[[2,-1]],"properties": {"name": "Right_Polygon" }}
-      ]
-    },
-    "one-line": {
-      "type":"GeometryCollection",
-      "geometries":[
-        {"type": "LineString", "arcs": [3],"properties":{"name":"Under_LineString"}}
-      ]
-    },
     "two-places":{
       "type":"GeometryCollection",
       "geometries":[
-        {"type":"Point","coordinates":[0,0],"properties":{"name":"Origine_Point"}},
+        {"type":"Point","coordinates":[33.745, -116.285],"properties":{"name":"Origine_Point"}},
         {"type":"Point","coordinates":[0,-1],"properties":{"name":"Under_Point"}}
       ]
     }
