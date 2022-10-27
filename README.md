@@ -12,7 +12,7 @@ Quick Test of GH Markdown
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [33.745, -116.285]
+        "coordinates": [[33.745, -116.285]]
       }
     }
   ]
